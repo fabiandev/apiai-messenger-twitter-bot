@@ -1,0 +1,22 @@
+{
+  "name": "facebook-messenger-twitter-bot",
+  "version": "0.0.1",
+  "description": "A Facebook Messenger bot that gets you some data from Twitter.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": "https://github.com/fabiandev/facebook-messenger-twitter-bot.git",
+  "author": "Fabian Pirklbauer <hi@fabiandev.io>",
+  "license": "MIT",
+  "dependencies": {
+    "apiai": "^3.0.3",
+    "async": "^2.1.4",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "json-bigint": "^0.2.1",
+    "node-env-file": "^0.1.8",
+    "node-uuid": "^1.4.7",
+    "request": "^2.79.0"
+  }
+}
