@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node index"
   },
+  "engine": {
+    "node": ">=6 <7"
+  },
   "repository": "https://github.com/fabiandev/facebook-messenger-twitter-bot.git",
   "author": "Fabian Pirklbauer <hi@fabiandev.io>",
   "license": "MIT",
