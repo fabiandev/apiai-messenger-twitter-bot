@@ -28,7 +28,8 @@ This app supports deployment to [OpenShift](https://www.openshift.com) out-of-th
 # Live Preview
 
 The bot was not submitted for approval yet. If you want to try it out,
-please leave me a message and I will add you as a tester.
+please leave me a message and I will add you as a tester. Once you have been added,
+scan the code below in the Facebook Messenger app:
 
 <img src="/data/messenger_code.png" align="center" width="300">
 > Icon "Robot, twitter icon" by Sneh Roy [[Source](https://www.iconfinder.com/icons/35063/robot_twitter_icon#size=512)]
