@@ -12,7 +12,7 @@ $ yarn
 ```
 
 
-Import intents and entities from [`apiai.zip`](/data/apiai.zip) `data/`
+Import intents and entities from [`data/apiai.zip`](/data/apiai.zip)
 to [api.ai](https://api.ai), fill in your credentials in `.env` and run `yarn start`.
 
 > Tip: You can use `npm` instead of yarn.
