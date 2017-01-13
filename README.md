@@ -1,5 +1,7 @@
 # Facebook Messenger Twitter Bot
 
+This bot gets trending topics and tweets based on your location.
+
 # Quickstart
 
 ```sh
