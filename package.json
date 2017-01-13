@@ -1,6 +1,6 @@
 {
   "name": "facebook-messenger-twitter-bot",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A Facebook Messenger bot that gets you some data from Twitter.",
   "main": "index.js",
   "scripts": {
