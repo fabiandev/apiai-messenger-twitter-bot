@@ -17,13 +17,6 @@ to [api.ai](https://api.ai), fill in your credentials in `.env` and run `yarn st
 
 > Tip: You can use `npm` instead of yarn.
 
-# Live Preview
-
-The bot was not submitted for approval yet. If you want to try it out,
-please leave me a message and I will add you as a tester.
-
-<img src="/data/messenger_code.png" align="center" width="300">
-
 # Deployment
 
 This app supports deployment to [OpenShift](https://www.openshift.com) out-of-the-box:
@@ -31,6 +24,13 @@ This app supports deployment to [OpenShift](https://www.openshift.com) out-of-th
 1. Create an app for Node.js
 2. Add environment variables from `.env`
 3. Force-push master to the git remote of your OpenShift app
+
+# Live Preview
+
+The bot was not submitted for approval yet. If you want to try it out,
+please leave me a message and I will add you as a tester.
+
+<img src="/data/messenger_code.png" align="center" width="300">
 
 # Credits
 
