@@ -23,7 +23,7 @@ This app supports deployment to [OpenShift](https://www.openshift.com) out-of-th
 
 1. Create an app for Node.js
 2. Add environment variables from `.env`
-3. Force-push repository to OpenShift app git remote
+3. Force-push master to the git remote of your OpenShift app
 
 # Credits
 
