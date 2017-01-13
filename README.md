@@ -19,7 +19,7 @@ to [api.ai](https://api.ai), fill in your credentials in `.env` and run `yarn st
 
 # Deployment
 
-This app supports deployment to [OpenShift](https://www.openshift.com) out-of-the-box.
+This app supports deployment to [OpenShift](https://www.openshift.com) out-of-the-box.  
 Just create an app for Node.js, add all environment variables from `.env` and force-push
 this repository to your OpenShift application git.
 
