@@ -21,7 +21,7 @@ to [api.ai](https://api.ai), fill in your credentials in `server/.env` and run `
 
 This app supports deployment to [OpenShift](https://www.openshift.com) out-of-the-box.
 Just create an app for Node.js, add all environment variables from `server/.env` and force-push
-this repository to your OpenShift's app repo.
+this repository to your OpenShift application git.
 
 # Credits
 
