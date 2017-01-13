@@ -1,6 +1,4 @@
-# Twitter Bot for Facebook Messenger
-
-## Quick start
+# Facebook Messenger Twitter Bot
 
 # Quickstart
 
