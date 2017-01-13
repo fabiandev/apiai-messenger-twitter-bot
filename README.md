@@ -12,7 +12,7 @@ $ yarn
 ```
 
 
-Import intents and entities from [`data/apiai.zip`](https://github.com/fabiandev/data)
+Import intents and entities from [`data/apiai.zip`](https://github.com/fabiandev/apiai-messenger-twitter-bot/tree/master/data)
 to [api.ai](https://api.ai), fill in your credentials in `server/.env` and run `yarn start`.
 
 > Tip: You can use `npm` instead of yarn.
