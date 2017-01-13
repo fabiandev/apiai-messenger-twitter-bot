@@ -11,11 +11,15 @@ $ cp .env.example .env
 $ yarn
 ```
 
-
-Import intents and entities from [`data/apiai.zip`](/data/apiai.zip)
-to [api.ai](https://api.ai), fill in your credentials in `.env` and run `yarn start`.
-
 > Tip: You can use `npm` instead of yarn.
+
+1. Import intents and entities from [`data/apiai.zip`](/data/apiai.zip)
+to [api.ai](https://api.ai)
+2. [Create a Facebook app](https://developers.facebook.com) and assign it to a page
+3. Add the verify token from api.ai and the webhook URL (https://bot.example.tld/webhook) to your Facebook app and select the events `messages` and `messaging_postbacks`
+4. Fill in your credentials in `.env`
+5. Run `yarn start`
+6. Write with your bot through the Facebook page
 
 # Deployment
 
