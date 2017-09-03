@@ -36,7 +36,8 @@ please leave me a message and I will add you as a tester. Once you have been add
 scan the code below in the Facebook Messenger app:
 
 <img src="/data/messenger_code.png" align="center" width="300">
-> Icon "Robot, twitter icon" by Sneh Roy [[Source](https://www.iconfinder.com/icons/35063/robot_twitter_icon#size=512)]
+
+> Icon "Robot, twitter icon" by Sneh Roy ([Source](https://www.iconfinder.com/icons/35063/robot_twitter_icon#size=512))
 
 # Credits
 
